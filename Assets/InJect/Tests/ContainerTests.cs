@@ -17,7 +17,7 @@ namespace InJect.Tests
         }
         
         [Test]
-        public void _01_()
+        public void _01_Resolve_Returns_InstanceOfExpectedType()
         {
             RegisterInjectable<ClassA>(typeof(ClassA));
 
@@ -27,7 +27,7 @@ namespace InJect.Tests
         }
         
         [Test]
-        public void _02_()
+        public void _02_Resolve_Returns_InstanceOfExpectedType_MappedToInterface()
         {
             RegisterInjectable<ClassA>(typeof(ISomeInterface));
 
@@ -48,7 +48,7 @@ namespace InJect.Tests
         }
 
         [Test]
-        public void _04_()
+        public void _04_Resolve_REturnsNotSameInstances_IfTransient()
         {
             RegisterInjectable<ClassA>(typeof(ISomeInterface));
 
