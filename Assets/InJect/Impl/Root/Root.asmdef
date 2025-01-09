@@ -1,0 +1,27 @@
+{
+    "name": "Root",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3467e5e8cbfb4b1e80e2dbb4de60fb95",
+        "GUID:816437b6d35e4d54b5e1c1d449eb2a02",
+        "GUID:9b03b31583ee49baa659ecfe18b810a0",
+        "GUID:5f5ac034a82f449da99ee34dd456991a",
+        "GUID:1cc22f0a93b14a249b21eb662a188bea",
+        "GUID:2a3aee67381a48b680908a5aab947cce",
+        "GUID:a9002e25e7674228955317cbccbe61cf",
+        "GUID:b8c7d560878c430096fcd5d72e753c94",
+        "GUID:0221d91ece5945039ce231a3b9eecdc6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "StructureMap.dll",
+        "InJect.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

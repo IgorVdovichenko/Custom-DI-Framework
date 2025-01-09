@@ -1,0 +1,16 @@
+{
+    "name": "Solid.Writers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a9002e25e7674228955317cbccbe61cf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

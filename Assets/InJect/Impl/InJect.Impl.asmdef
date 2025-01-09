@@ -1,0 +1,16 @@
+{
+    "name": "InJect.Impl",
+    "rootNamespace": "",
+    "references": [
+        "GUID:db5b050a563d48588f269e2d3cd1a875"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

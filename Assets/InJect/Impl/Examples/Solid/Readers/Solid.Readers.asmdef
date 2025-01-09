@@ -1,0 +1,17 @@
+{
+    "name": "Solid.Readers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:816437b6d35e4d54b5e1c1d449eb2a02",
+        "GUID:1cc22f0a93b14a249b21eb662a188bea"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

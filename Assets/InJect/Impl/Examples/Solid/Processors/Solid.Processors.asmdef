@@ -1,0 +1,16 @@
+{
+    "name": "Solid.Processors",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0221d91ece5945039ce231a3b9eecdc6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
